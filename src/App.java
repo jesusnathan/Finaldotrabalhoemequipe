@@ -3,8 +3,5 @@ public class App {
         System.out.println("Alô MUNDO!!!"); 
         System.out.println("Hello Brother");
         System.out.println("Alô MUNDO!!!");
-        System.out.println("Alô MUNDO!!!");
-        System.out.println("Alô MUNDO!!!");
-        System.out.println("Alô MUNDO!!!");
     }
 }
