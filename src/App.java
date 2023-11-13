@@ -1,12 +1,3 @@
-
-//public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Alô MUNDO!!!"); 
-        System.out.println("Hello Brother");
-        System.out.println("Alô MUNDO!!!");
-        System.out.println("Deu certo a primeira parte do trabalho");
-    }
-}
 public class App {
     public static void main(String[] args) throws Exception {
        Personagem arqueiro = new Personagem();
@@ -22,7 +13,7 @@ public class Personagem {
     String nome;
     int nivel;
     int forca;
-
+}
     void mostrarStatus() {
         System.out.format("Personagem: %s (lvl %d) com %d força.",nome, nivel, forca);
     }
