@@ -1,9 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
         Personagem arqueiro = new Personagem();
-        arqueiro.nome = "Tiro Certo";
-        arqueiro.nivel = 3;
-        arqueiro.forca = 18;
+        arqueiro.nome = "Gojo";
+        arqueiro.nivel = 15;
+        arqueiro.forca = 17;
 
         arqueiro.mostrarStatus();
         arqueiro.atacar();
