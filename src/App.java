@@ -20,7 +20,7 @@ class Personagem {
     }
 
     void atacar() {
-        System.out.format("%s atacou e retirou %d de dano.", nome, forca);
+        System.out.format("%s atacou e retirou %d de dano. ", nome, forca);
     }
 }
 
