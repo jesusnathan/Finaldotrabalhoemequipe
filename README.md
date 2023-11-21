@@ -1,4 +1,6 @@
 Integrantes da equipe que estão participando:
-Francisco Mateus Rodrigues de Castro - Matricula: 2317159.
-Saymon Junior Azevedo Matos - Matricula: 2317927.
+ARINELSON TEIXEIRA DA SILVA DUARTE - 2315297
+FRANCISCO GUTEMBERG SILVA DO NASCIMENTO - 2317928
+FRANCISCO MATEUS RODRIGUES DE CASTRO - 2317159
+SAYMON JUNIOR AZEVEDO MATOS - 2317927
 
